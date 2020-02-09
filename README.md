@@ -1,2 +1,9 @@
 # Arduino-Project
-Radar
+Radar that detects the objects infront of it.
+
+Components:
+1)hc sr04 - The ultrasonic distance sensor I used.
+2)micro servo sg90 - Servo Motor. I attached distance sensor on the micro servo motor kit.
+3)solderless breadboard
+4)arduino uno
+5)Male to Male jumper wires.
