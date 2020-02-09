@@ -1,5 +1,5 @@
 # Arduino-Project
-Radar that detects the objects infront of it. Was inspired by "How To Mechatronics's" code.
+Radar that detects the objects infront of it and the distance the object is away from the sensor. Was inspired by "How To Mechatronics's" code.
 
 
 Components:
