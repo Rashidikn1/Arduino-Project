@@ -1,5 +1,6 @@
 # Arduino-Project
-Radar that detects the objects infront of it.
+Radar that detects the objects infront of it. Was inspired by "How To Mechatronics's" code.
+
 
 Components:
 1)hc sr04 - The ultrasonic distance sensor I used.
