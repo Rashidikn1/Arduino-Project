@@ -13,3 +13,5 @@ Components:
 4)arduino uno.
 
 5)Male to Male jumper wires.
+
+Make sure to download Processing 3. The "radar arduino.pde" does not open in a normal arduino environment.
